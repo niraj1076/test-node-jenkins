@@ -1,4 +1,4 @@
-# Use an official Node.js runtime as a base image
+# Use an official Node.js
 FROM node:21
  
 # Set the working directory in the container
